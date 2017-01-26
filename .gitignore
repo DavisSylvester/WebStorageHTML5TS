@@ -1,0 +1,12 @@
+node_modules/
+/nbproject/private/
+.vscode/
+typings/
+*.map
+*.d.ts
+app\**\*.map
+app\**\*.js
+app/**/*.map
+app/**/*.js
+!app/assets/config/*
+js/*.js
