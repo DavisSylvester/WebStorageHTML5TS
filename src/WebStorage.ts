@@ -34,6 +34,8 @@ export class WebStorage {
         this.tempStorage.clear();
     }
 
+    public ShowAll(): Array<
+
     public GetAllKeys(): Array<string> {
         if (this.tempStorage.length === 0) {
             return null;
